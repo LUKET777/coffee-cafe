@@ -1,0 +1,54 @@
+*{font-family: Arial, Helvetica, sans-serif;}
+
+
+main{
+    width: 500px;
+    margin: 200px auto; 
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #deb887 ;
+    text-align: center;
+}
+
+#sub-topico{
+    margin-top:-8px ;
+    border-bottom: 4px solid;
+    color: #a52a2a;
+    width: 495px; 
+    padding: 0px 2px 10px 10px;
+}
+
+body{
+    background-image: url(../img/th.jpeg);
+}
+
+
+.Coffee{
+    width: 450px;
+    display: flex; 
+    justify-content:space-between ;
+    text-align: justify;
+}
+
+a{
+    border-top:4px solid;
+    color: #a52a2a;
+    width: 495px;
+    padding: 10px;
+    
+}
+
+img{
+    margin-top: -20px;
+}
+
+h2{
+ margin-top: -10px;
+ 
+}
+
+ul{
+    list-style: none;
+}
